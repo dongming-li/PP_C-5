@@ -1,0 +1,15 @@
+client
+communication
+communication.commands
+communication.commands.game
+communication.commands.game.gofish
+communication.commands.game.war
+dataModels
+gameObjects
+gameServer
+gameServer.games.goFish
+gameServer.games.war
+graphics
+gui
+server
+utility
